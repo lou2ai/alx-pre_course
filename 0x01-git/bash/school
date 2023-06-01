@@ -1,2 +1,2 @@
-echo"The School is open! "
->>>>>>> update_script
+#!/bin/bash
+echo "school"
